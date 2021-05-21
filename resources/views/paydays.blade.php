@@ -32,7 +32,7 @@
 
                 <div class="container-login100-form-btn">
                     <a href="/generate/{{ $year }}" class="clear-link login100-form-btn">Generate CSV</a>
-                    <a href="/home" class="clear-link login100-form-btn">Change input year</a>
+                    <a href="/" class="clear-link login100-form-btn">Change input year</a>
                 </div>
             </div>
 
