@@ -20,3 +20,17 @@
     text-decoration: none;
     color: #fff;
 }
+
+@media only screen and (max-width: 600px) {
+    .output-paydays{
+        display: block;
+    }
+
+    .output-paydays-salary,
+    .output-paydays-bonus{
+        margin-bottom: 20px;
+    }
+
+    .login100-form-btn + .login100-form-btn{ margin: 10px 0 0 0; }
+
+}
