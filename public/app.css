@@ -1,0 +1,22 @@
+.wrapper-output{
+    padding: 40px 60px;
+}
+
+.output-paydays{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.output-paydays-salary h4,
+.output-paydays-bonus h4{
+    padding-bottom: 20px;
+}
+
+.login100-form-btn + .login100-form-btn{ margin-left: 20px; }
+.clear-link{ text-decoration: none; }
+
+.clear-link:hover{
+    text-decoration: none;
+    color: #fff;
+}
